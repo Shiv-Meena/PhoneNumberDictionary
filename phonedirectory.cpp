@@ -1,4 +1,4 @@
-```cpp
+
 #include<iostream>
 #include<cstring>
 #include<regex>
@@ -386,4 +386,4 @@ int main(){
     cin>>ans;
 }while(ans=='y');
 }
-```
+
